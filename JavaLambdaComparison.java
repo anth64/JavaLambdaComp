@@ -37,7 +37,7 @@ final class JavaLambdaComparison
 	public static void main(String args[])
 	{
 		/* 
-		 * Check if the user supplies args[1];
+		 * Check if the user supplies args[0];
 		 * User supplies number of iterations per loop as the 1st argument.
 		 */
 		if(args.length >= 1) {
