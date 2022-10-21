@@ -25,7 +25,7 @@ final class JavaLambdaComparison
 								forInOperationTotalSec, forInAvgSec, lambdaGrandTotalSec, 
 								lambdaOperationTotalSec, lambdaAvgSec;
 	// Number of runs specified as command line argument.
-	static int numberOfRuns;
+	static int numberOfRuns = 1000;
 	// Time stamps.
 	static long start, end, totalStart, totalEnd;
 	// Accumulted time and average iteration time.
