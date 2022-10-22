@@ -1,0 +1,277 @@
+------------------------------------------------------------
+Results of this program over different numbers of iterations.
+Tests were run on an AMD Ryzen 5 3500U.
+-------------------------------------------------------------
+
+Summary of 5 Iterations
+--FOR--
+Grand Total: 0.93284907s
+Operation Total: 0.91273886s
+Average Iteration: 0.18254777s
+-------
+--FOR-IN--
+Grand Total: 0.67977418s
+Operation Total: 0.67628397s
+Average Iteration: 0.13525679s
+----------
+--LAMBDA--
+Grand Total: 0.52450046s
+Operation Total: 0.36504740s
+Average Iteration: 0.07300948s
+-------------
+--------------------------
+Summary of 10 Iterations
+--FOR--
+Grand Total: 1.60422009s
+Operation Total: 1.58688351s
+Average Iteration: 0.15868835s
+-------
+--FOR-IN--
+Grand Total: 1.26266074s
+Operation Total: 1.25679806s
+Average Iteration: 0.12567981s
+----------
+--LAMBDA--
+Grand Total: 0.82153839s
+Operation Total: 0.54306444s
+Average Iteration: 0.05430644s
+-------------
+--------------------------
+Summary of 20 Iterations
+--FOR--
+Grand Total: 2.81274789s
+Operation Total: 2.78635764s
+Average Iteration: 0.13931788s
+-------
+--FOR-IN--
+Grand Total: 1.96883872s
+Operation Total: 1.95853145s
+Average Iteration: 0.09792657s
+----------
+--LAMBDA--
+Grand Total: 1.56911300s
+Operation Total: 1.04218225s
+Average Iteration: 0.05210911s
+-------------
+--------------------------
+Summary of 40 Iterations
+--FOR--
+Grand Total: 4.85497503s
+Operation Total: 4.81719873s
+Average Iteration: 0.12042997s
+-------
+--FOR-IN--
+Grand Total: 3.68583199s
+Operation Total: 3.66547726s
+Average Iteration: 0.09163693s
+----------
+--LAMBDA--
+Grand Total: 3.08242546s
+Operation Total: 1.82379048s
+Average Iteration: 0.04559476s
+-------------
+--------------------------
+Summary of 80 Iterations
+--FOR--
+Grand Total: 7.63854088s
+Operation Total: 7.58682616s
+Average Iteration: 0.09483533s
+-------
+--FOR-IN--
+Grand Total: 7.95807796s
+Operation Total: 7.91541644s
+Average Iteration: 0.09894271s
+----------
+--LAMBDA--
+Grand Total: 5.99640131s
+Operation Total: 3.90005424s
+Average Iteration: 0.04875068s
+-------------
+--------------------------
+Summary of 160 Iterations
+--FOR--
+Grand Total: 14.92691935s
+Operation Total: 14.83237253s
+Average Iteration: 0.09270233s
+-------
+--FOR-IN--
+Grand Total: 14.88924697s
+Operation Total: 14.80601902s
+Average Iteration: 0.09253762s
+----------
+--LAMBDA--
+Grand Total: 11.37997785s
+Operation Total: 7.09589143s
+Average Iteration: 0.04434932s
+-------------
+--------------------------
+Summary of 320 Iterations
+--FOR--
+Grand Total: 30.78964949s
+Operation Total: 30.58342866s
+Average Iteration: 0.09557321s
+-------
+--FOR-IN--
+Grand Total: 30.83342288s
+Operation Total: 30.66122723s
+Average Iteration: 0.09581634s
+----------
+--LAMBDA--
+Grand Total: 22.69200507s
+Operation Total: 13.03193177s
+Average Iteration: 0.04072479s
+-------------
+--------------------------
+Summary of 640 Iterations
+--FOR--
+Grand Total: 56.91429809s
+Operation Total: 56.57851573s
+Average Iteration: 0.08840393s
+-------
+--FOR-IN--
+Grand Total: 68.38202019s
+Operation Total: 68.01497129s
+Average Iteration: 0.10627339s
+----------
+--LAMBDA--
+Grand Total: 43.69943324s
+Operation Total: 27.04857525s
+Average Iteration: 0.04226340s
+-------------
+--------------------------
+Summary of 1280 Iterations
+--FOR--
+Grand Total: 113.01523509s
+Operation Total: 112.33593217s
+Average Iteration: 0.08776245s
+-------
+--FOR-IN--
+Grand Total: 121.13599244s
+Operation Total: 120.47537455s
+Average Iteration: 0.09412139s
+----------
+--LAMBDA--
+Grand Total: 89.99489037s
+Operation Total: 56.25180943s
+Average Iteration: 0.04394673s
+-------------
+--------------------------
+Summary of 2560 Iterations
+--FOR--
+Grand Total: 252.27006568s
+Operation Total: 250.81435587s
+Average Iteration: 0.09797436s
+-------
+--FOR-IN--
+Grand Total: 239.88025673s
+Operation Total: 238.56130660s
+Average Iteration: 0.09318801s
+----------
+--LAMBDA--
+Grand Total: 157.93939656s
+Operation Total: 98.69520428s
+Average Iteration: 0.03855281s
+-------------
+--------------------------
+Summary of 5120 Iterations
+--FOR--
+Grand Total: 395.88889954s
+Operation Total: 393.46601070s
+Average Iteration: 0.07684883s
+-------
+--FOR-IN--
+Grand Total: 394.25531171s
+Operation Total: 391.87474767s
+Average Iteration: 0.07653804s
+----------
+--LAMBDA--
+Grand Total: 302.93598467s
+Operation Total: 185.20585482s
+Average Iteration: 0.03617302s
+-------------
+--------------------------
+Summary of 10240 Iterations
+--FOR--
+Grand Total: 1006.66147674s
+Operation Total: 1001.79319534s
+Average Iteration: 0.09783137s
+-------
+--FOR-IN--
+Grand Total: 803.25690649s
+Operation Total: 798.47566563s
+Average Iteration: 0.07797614s
+----------
+--LAMBDA--
+Grand Total: 605.55632334s
+Operation Total: 372.31322528s
+Average Iteration: 0.03635871s
+-------------
+--------------------------
+Summary of 20480 Iterations
+--FOR--
+Grand Total: 1563.51601914s
+Operation Total: 1553.75260038s
+Average Iteration: 0.07586683s
+-------
+--FOR-IN--
+Grand Total: 1576.10610583s
+Operation Total: 1566.62485080s
+Average Iteration: 0.07649535s
+----------
+--LAMBDA--
+Grand Total: 1216.71373052s
+Operation Total: 741.01623203s
+Average Iteration: 0.03618243s
+-------------
+--------------------------
+Summary of 40960 Iterations
+--FOR--
+Grand Total: 3070.68484948s
+Operation Total: 3051.73032052s
+Average Iteration: 0.07450513s
+-------
+--FOR-IN--
+Grand Total: 3077.58314286s
+Operation Total: 3058.91423723s
+Average Iteration: 0.07468052s
+----------
+--LAMBDA--
+Grand Total: 2459.49622392s
+Operation Total: 1540.16835056s
+Average Iteration: 0.03760177s
+-------------
+--------------------------
+Summary of 81920 Iterations
+--FOR--
+Grand Total: 6468.14847628s
+Operation Total: 6429.61619904s
+Average Iteration: 0.07848653s
+-------
+--FOR-IN--
+Grand Total: 6253.76288855s
+Operation Total: 6216.19533341s
+Average Iteration: 0.07588129s
+----------
+--LAMBDA--
+Grand Total: 5281.73088702s
+Operation Total: 2976.24919701s
+Average Iteration: 0.03633117s
+-------------
+--------------------------
+Summary of 163840 Iterations
+--FOR--
+Grand Total: 12444.61696997s
+Operation Total: 12369.25431840s
+Average Iteration: 0.07549594s
+-------
+--FOR-IN--
+Grand Total: 12497.37138646s
+Operation Total: 12423.63702769s
+Average Iteration: 0.07582786s
+----------
+--LAMBDA--
+Grand Total: 10518.73722816s
+Operation Total: 6114.09145109s
+Average Iteration: 0.03731745s
+-------------
+--------------------------
